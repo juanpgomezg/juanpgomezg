@@ -31,11 +31,11 @@
 ---
 
 ## 🎯 Competencies  
-✅ **Data Processing:** ETL Pipelines, Data Warehousing 
-✅ **Cloud Services:** Obtaining soon AWS certifications ! 
+✅ **Data Processing:** ETL Pipelines, Data Warehousing  
+✅ **Cloud Services:** Obtaining AWS certifications soon !  
 ✅ **Machine Learning:** Learning Machine Learning with Scikit-Learn  
-✅ **Data Visualization:** Power BI, Matplotlib, Excel, Illustrator 
-✅ **Big Data:** Learning Apache Spark, Hadoop ecosysem and Hive 
+✅ **Data Visualization:** Power BI, Matplotlib, Excel, Illustrator  
+✅ **Big Data:** Learning Apache Spark, Hadoop ecosytsem and Hive  
 
 ---
 
