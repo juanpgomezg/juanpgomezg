@@ -13,7 +13,7 @@
 
 👨‍💻 I am a **Data Engineer | Data Analyst | Future developer** with a great passion for **Programming, Machine Learning, and AI**.  
 🔍 I look forward to specialize in **programming, data pipelines, ETL processes, cloud computing AWS, and analytics**.  
-📊 I enjoy **visualizing data and discovering insights** to drive business decisions.  
+📊 I enjoy **visualizing data and discovering insights** to drive business decisions, as well as **making tasks easier through programming**.  
 📡 I currently work with **Python, SQL, Spark, Power BI, and AI-driven technologies** and I am immerse in a deep learning of other skills and techonologies.  
 
 ---
